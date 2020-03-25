@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ByteBank
 {
-    class Programe
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.ReadLine(uyuy);
+            Console.ReadLine();
         }
     }
 }
